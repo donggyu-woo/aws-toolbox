@@ -1,5 +1,5 @@
 # aws-toolbox
-A toolbox of Python (boto3) scripts for AWS operations.
+A toolbox of reusable AWS CLI commands and Python (boto3) scripts.
 
 ## Authentication
 
