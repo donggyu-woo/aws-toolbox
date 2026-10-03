@@ -1,0 +1,8 @@
+[project]
+name = "aws-toolbox"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "boto3>=1.42.97",
+    "botocore[crt]>=1.42.97",
+]
