@@ -4,6 +4,8 @@
 
 ## get-webacl-rules
 
+Retrieves the rules of a WebACL by name.
+
 1. Find the WebACL Id by name.
 
 ```bash
